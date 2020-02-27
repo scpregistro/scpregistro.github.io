@@ -35,3 +35,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### 인용
+ > 인용어
+ 
+### 소스코드
+ ```
+ source code in here
+ ```
+ 문장안에서 `<strong></strong>` 은 이렇게
+ 
+ ### 개행
+ > 엔터키 두번
+ 
+ ### 스타일
+  ** 굵게 **
+  * 기울기 *
+  ~~ 취소선 ~~
+  --- 수평선
+  
